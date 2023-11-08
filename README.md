@@ -1,5 +1,5 @@
 ### Hi there 👋
-🎬 yazılımla tanışmam 2009 yılında Bilecik Üniversitesinde Bilgisayar Programcılığı Bölümü ile başladı  
+🎬 yazılımla tanışmam 2009 yılında Bilecik Üniversitesinde Bilgisayar Programcılığı Bölümü ile başladı  C / C#  
 👨‍🎓 2011 yılında mezuniyetimle beraber iş arayışım başladı  
 👨‍⚖️ 2012 yılında Akgün Yazılım da Yazılım Destek Personeli olarak çalışmaya başladım  
 👨‍⚖️ süreç 2013 yılında TAPDK kurumunda çeşitli pozisyonlarda görev aldım  
@@ -8,7 +8,7 @@
 2018 yılında yazılıma verdiğim arayı Vektörel Bilişim C# Yazılım uzmanlığı eğitimi ile bitirdim  
 👨‍⚖️ bu reç boyunca çalışma hayatım Tarım ve Orman Bakanlığında Kütüphane otomasyonu işi ile devam etti  
 2021 yılında yine yazıl ile aramı açmamak adına Gazi üniversitesi PYTHON eğitimini tamamladım  
-🧭 ve tekrar yazılım için javascript ile emek yolu tekrar başladı 11.09.2023  
+🧭 ve tekrar yazılım için JAVASCRİPT ile emek yolu tekrar başladı 11.09.2023  
 
 
 
