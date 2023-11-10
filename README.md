@@ -4,10 +4,10 @@
 👨‍⚖️ 2012 yılında Akgün Yazılım da Yazılım Destek Personeli olarak çalışmaya başladım  
 👨‍⚖️ süreç 2013 yılında TAPDK kurumunda çeşitli pozisyonlarda görev aldım  
 👨‍🎓 👨‍🎓 2015 yılı işletme fakültesini bitirerek askerlik görevimi tamamladım  
-👨‍🎓 👨‍🎓 👨‍🎓 2019 yılında Yönetim Bilişim sistemleri Bölümü ile yazılım bağımı koparmamak adına yola devam ettim.  
 2018 yılında yazılıma verdiğim arayı Vektörel Bilişim C# Yazılım uzmanlığı eğitimi ile bitirdim  
+👨‍🎓 👨‍🎓 👨‍🎓 2019 yılında Yönetim Bilişim sistemleri Bölümü ile yazılım bağımı koparmamak adına yola devam ettim.   
 👨‍⚖️ bu reç boyunca çalışma hayatım Tarım ve Orman Bakanlığında Kütüphane otomasyonu işi ile devam etti  
-2021 yılında yine yazıl ile aramı açmamak adına Gazi üniversitesi PYTHON eğitimini tamamladım  
+2021 yılında yine yazılım ile aramı açmamak adına Gazi üniversitesi PYTHON eğitimini tamamladım  
 🧭 ve tekrar yazılım için JAVASCRİPT ile emek yolu tekrar başladı 11.09.2023  
 
 
